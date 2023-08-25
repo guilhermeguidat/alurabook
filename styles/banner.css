@@ -72,6 +72,7 @@
     }
     .container__texto {
         display: block;
+        color: var(--preto);
     }
     .cabecalho {
         padding: 0 2em;
